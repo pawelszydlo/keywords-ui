@@ -1,0 +1,17 @@
+body {
+    padding:0px;
+}
+
+a.advanced, .time {
+    margin-left:10px;
+    font-size:90%;
+    color:#999;
+}
+
+a.advanced {
+    cursor:pointer;
+}
+
+#keywords {
+    margin-top:20px;
+}
