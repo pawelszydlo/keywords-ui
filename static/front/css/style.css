@@ -10,6 +10,7 @@ a.advanced, .time {
 
 a.advanced {
     cursor:pointer;
+    display:none;
 }
 
 #keywords {

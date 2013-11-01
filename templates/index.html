@@ -71,9 +71,12 @@
         <script>
             $(document).ready(function() {
                 $("#id_text").focus();
+                // if js is working, we can hide advanced settings...
                 $("#id_method").parents(".form-group").hide();
+                $("a.advanced").show();
+                // ... and bind showing them to a link
                 $("a.advanced").bind("click", function() {
-                    $("#id_method").parents(".form-group").show();
+                    $("#id_method").parents(".form-group").fadeIn(200);
                     $(this).hide();
                 });
             });
