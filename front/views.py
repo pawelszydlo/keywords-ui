@@ -31,7 +31,7 @@ def index(request):
                 elif method == "calais":
                     finder = KeywordFinderCalais(settings.CALAIS_API_KEY)
                 else:
-                    finder = KeywordFinderPython(settings.STOPWORDS_DIR)
+                    finder = KeywordFinderPython()
                 keywords = finder.get_keywords(unicode(text))
                 exec_time = "%.4f s" % (time.time() - start_time)
             except KeywordFinderException:
