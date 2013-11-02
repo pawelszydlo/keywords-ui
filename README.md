@@ -4,4 +4,7 @@ Generator słów kluczowych - Interfejs www
 
 Działająca wersja znajduje się pod adresem http://keywords.szydlo.eu
 
-Django wydaje się być w tym przypadku użyte mocno na wyrost.
+* Testowane na Django w wersji 1.4
+* Django wydaje się być w tym przypadku użyte mocno na wyrost.
+* Strona wykorzystuje Twitter Bootstrap i jest responsywna.
+
