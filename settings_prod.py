@@ -1,8 +1,8 @@
 # PRODUCTION SERVER
 
-SITE_DOMAIN = "ramki.venditor.pl"
+SITE_DOMAIN = "xxx.xxx"
 
 # project specific settings
-CALAIS_API_KEY = "seffdjarup7phnn8z45f6mt6"
+CALAIS_API_KEY = "xxx"
 
 
