@@ -5,7 +5,7 @@ DEBUG = True
 PRODUCTION_SERVER = False
 
 # project specific settings
-CALAIS_API_KEY = "seffdjarup7phnn8z45f6mt6"
+CALAIS_API_KEY = "xxx"
 
 
 ADMINS = (
