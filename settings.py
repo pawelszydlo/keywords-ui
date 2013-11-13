@@ -9,7 +9,7 @@ CALAIS_API_KEY = "seffdjarup7phnn8z45f6mt6"
 
 
 ADMINS = (
-    ('Pawel Szydlo', 'pawelszydlo@gmail.com'),
+    ('Pawel Szydlo', 'xxx@xxx.xxx'),
 )
 MANAGERS = ADMINS
 
